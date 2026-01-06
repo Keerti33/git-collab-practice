@@ -1,1 +1,1 @@
-- Learned git add, commit, push
+- Understood cloning and branches
