@@ -1,1 +1,3 @@
-- Understood cloning and branches
+# Day 1 Notes
+- Git basics
+- Repo setup
