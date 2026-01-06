@@ -1,1 +1,2 @@
-- Learning Git is easy
+
+ Learning Git is hard but powerful
