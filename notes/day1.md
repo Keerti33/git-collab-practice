@@ -1,2 +1,1 @@
-
- Learning Git is hard but powerful
+THIS IS MAIN
